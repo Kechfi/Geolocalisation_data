@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Musée d'Histoire et des Civilisations",
+          "description": "Un musée à Rabat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.830663967162561,34.01409602930231]      
+        }
+      }
+    ]
+  }
+  
